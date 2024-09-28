@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Aditya Kaushik",
+      "title": "India to Australia: Highest successful run chase in Test cricket history",
+      "description": "The highest successful run chase in Test for India is when they beat West Indies with 6 wickets while chasing 406 in 1976",
+      "url": "https://www.business-standard.com/cricket/news/west-indies-to-australia-highest-successful-run-chase-in-test-cricket-here-124092100366_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/21/thumb/featurecrop/400X400/1726910591-2397.jpg",
+      "publishedAt": "2024-09-21T09:25:53Z",
+      "content": "The highest successful run chase in Test for India is when they beat West Indies with 6 wickets while chasing 406 in 1976\r\nTop 10 highest successful run chase in Test cricket\r\nAditya KaushikNew Delhi… [+7983 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GreenBiz"
+      },
+      "author": null,
+      "title": "Joel Makower Archive",
+      "description": "Joel Makower Archive",
+      "url": "https://www.greenbiz.com/temp/JoelMakowerArchive",
+      "urlToImage": null,
+      "publishedAt": "2024-09-18T15:41:07Z",
+      "content": "2000-08-31 : Out of India2000-11-08 : Ten Keys for Educating and Engaging Employees2000-11-30 : The Fabric of Their Lives2002-01-07 : Friendly Fire2004-05-05 : No News Is Good News for Green Building… [+6814597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Team BL",
+      "title": "Share Market Highlights September 10, 2024: Sensex gains 361 pts, Nifty settles above 25,000",
+      "description": "Sensex, Nifty, Share Prices Highlights: Indian stock markets witnessed a significant rally, with the benchmark Sensex surging over 500 points, driven by gains in IT stocks and positive global cues. BSE Sensex closed at 81,921.29, higher by 361.75 pts or 0.44%…",
+      "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-highlights-10-september-2024/article68622469.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/w0sbl3/article68622468.ece/alternates/LANDSCAPE_1200/Stock%20market%20live%20today.jpg",
+      "publishedAt": "2024-09-10T01:24:06Z",
+      "content": "\u003Cli\u003E\u003C/li\u003E\r\nSeptember 10, 2024 16:25Stock Market live today: Sensex, Nifty climb on rally in US markets, foreign fund inflows\r\nThe 30-share BSE Sensex climbed 361.75 points or 0.44 per cent to settle … [+60410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Team BL",
+      "title": "Share Market Highlights August 29, 2024: RIL to consider 1:1 bonus issue as markets hit new highs; Nifty rises for 11th day",
+      "description": "Sensex, Nifty updates on 29 August 2024: On Thursday, India’s equity benchmarks surged to record highs, driven by the influential conglomerate Reliance Industries’ announcements of increased AI adoption and bonus share issuance. The NSE Nifty 50 and S&P BSE S…",
+      "url": "https://www.thehindubusinessline.com/markets/stock-market-highlights-29-august-2024/article68577115.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/56rj00/article68577130.ece/alternates/LANDSCAPE_1200/Share%20market%20live%20today.jpg",
+      "publishedAt": "2024-08-29T01:09:43Z",
+      "content": "\u003Cli\u003E\u003C/li\u003E\r\nAugust 29, 2024 16:02Stock market live today: Closing bell: Sensex climbs nearly 400 points, nifty hits record high\r\nThe benchmark BSE Sensex was up 0.4% to 82,104.54, while the broader NS… [+34095 chars]"
+    }
+  ]
+}
